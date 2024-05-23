@@ -1,13 +1,16 @@
 <div align="center">
-  
-  # Opa, eu sou o João 👋
-  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008000&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=008000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+João+Pedro;I'm+18+years+old;I'm+from+Brazil;I+Love+Programming;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+<br>
+
 </div>
 
-- :suspect: Atualmente desempregado, a procura de um emprego como aprendiz na área da tecnologia. 
-- :shipit: Estou estudando para o Enem e fazendo alguns projetos de e-commerce. 
+<h4> ° :suspect: Atualmente desempregado, a procura de um emprego como aprendiz na área da tecnologia. </h4> 
+<h4> ° :shipit: Estou estudando para o Enem e fazendo alguns projetos de e-commerce. </h4> 
 
-## 
+---
 
 <div>
   <div>
@@ -42,14 +45,14 @@
   </div>
 </div>
 
-##
+---
 
-<div><br>
-       <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoapt&theme=dark"/>
-       <img height="180px" src="https://github-readme-stats.vercel.app/api?username=joaoapt&show_icons=true&media=prefers-color-scheme:dark&theme=dark"/>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=joaoapt&show_icons=true&count_private=true&hide_border=true&title_color=008000&icon_color=008000&text_color=F2F2F2&bg_color=000000" alt="Caroline Barbosa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoapt&layout=compact&hide_border=true&title_color=008000&text_color=F2F2F2&bg_color=000000" />
 </div>
 
-##
+---
 
   <div>
     <a href="http://linkedin.com/in/joão-pedro-farias-melo-7349b6247"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -57,6 +60,9 @@
       <a href="https://figma.com/@masterchef"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
     <a href="https://www.instagram.com/jao_apt/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   </div>
+
+
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008000&height=120&section=footer"/>
 
 
 
